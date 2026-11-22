@@ -1,0 +1,1 @@
+print("Hello, Freshman AI Engineering Lab!")
